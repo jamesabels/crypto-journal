@@ -1,7 +1,7 @@
 {
-  "name": "jumpsuit-test",
-  "version": "1.0.0",
-  "description": "Jumpsuit getting started example",
+  "name": "crypto-journal",
+  "version": "0.0.1",
+  "description": "A simple application for tracking crypto curriences and investments",
   "license": "MIT",
   "private": true,
   "repository": {

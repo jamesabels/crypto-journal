@@ -2,467 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74e5063e-9a39-4439-8bc9-8bf16757eafb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/fonts/cryptocoins.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/fonts/cryptocoins.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/fonts/cryptocoins.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/ionicons/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/ionicons/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/ionicons/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/fonts/cryptocoins.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/fonts/cryptocoins.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/fonts/cryptocoins.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ionicons/fonts/ionicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ionicons/fonts/ionicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ionicons/fonts/ionicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jumpsuit-test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ADC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ADC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/AEON-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/AEON.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/AMP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/AMP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ANC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ANC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ARCH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ARCH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BANX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BANX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BAY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BAY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BCN-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BCN.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BSD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BSD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTCD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTCD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/BTS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/CLAM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/CLAM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/CLOAK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/CLOAK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DAO-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DAO.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DASH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DASH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DCR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DCR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DGB-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DGB.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DGD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DGX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DMD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DMD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DOGE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/DOGE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/EMC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/EMC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ERC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ERC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ETC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ETC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ETH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ETH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FC2-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FC2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FCT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FCT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FRK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FRK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/FTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GDC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GDC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GEMZ-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GEMZ.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GLD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GLD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GRC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/GRS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/IFC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/IFC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/IOC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/IOC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/JBS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/JBS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/KOBO.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/KORE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/KORE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LBC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LBC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LDOGE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LDOGE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LISK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LISK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/LTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MAID-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MAID.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MINT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MINT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MONA-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MONA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MSC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MSC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MTR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MTR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MUE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/MUE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NBT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NEOS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NEOS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NEU-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NEU.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NLG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NLG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NMC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NMC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NOTE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NOTE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NVC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NVC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NXT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/NXT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OMNI-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OMNI.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OPAL-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/OPAL.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PIGGY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PIGGY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PINK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PINK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/POT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/POT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PPC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/PPC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/QRK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/QRK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBIES-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBIES.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RBY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RDD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RDD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RISE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/RISE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SAR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SAR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SCOT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SCOT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SDC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SDC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SIA-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SIA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SJCX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SJCX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SLG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SLG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SLS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SLS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SNRG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SNRG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/START-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/START.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STEEM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STEEM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STRAT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/STRAT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SWIFT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SWIFT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SYNC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SYNC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SYS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/SYS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/TX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/TX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/UNITY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/UNITY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/USDT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/USDT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VIOR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VIOR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VNL-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VNL.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VPN-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VPN.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VRC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/VTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XAI-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XAI.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XBS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XBS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XCP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XCP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XEM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XEM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XMR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XPM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XPM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XRP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XRP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XVG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/XVG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/YBC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/YBC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ZEIT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/SVG/ZEIT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/crypto-coins/fonts/cryptocoins.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/ionicons/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jumpsuit.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ADC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ADC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/AEON-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/AEON.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/AMP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/AMP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ANC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ANC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ARCH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ARCH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BANX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BANX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BAY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BAY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BCN-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BCN.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BSD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BSD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTCD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTCD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/BTS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/CLAM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/CLAM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/CLOAK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/CLOAK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DAO-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DAO.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DASH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DASH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DCR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DCR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DGB-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DGB.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DGD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DGX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DMD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DMD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DOGE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/DOGE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/EMC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/EMC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ERC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ERC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ETC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ETC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ETH-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ETH.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FC2-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FC2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FCT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FCT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FRK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FRK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/FTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GDC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GDC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GEMZ-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GEMZ.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GLD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GLD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GRC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/GRS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/IFC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/IFC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/IOC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/IOC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/JBS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/JBS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/KOBO.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/KORE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/KORE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LBC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LBC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LDOGE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LDOGE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LISK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LISK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/LTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MAID-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MAID.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MINT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MINT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MONA-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MONA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MSC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MSC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MTR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MTR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MUE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/MUE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NBT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NEOS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NEOS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NEU-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NEU.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NLG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NLG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NMC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NMC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NOTE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NOTE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NVC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NVC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NXT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/NXT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OMNI-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OMNI.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OPAL-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/OPAL.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PIGGY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PIGGY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PINK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PINK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/POT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/POT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PPC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/PPC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/QRK-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/QRK.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBIES-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBIES.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RBY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RDD-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RDD.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RISE-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/RISE.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SAR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SAR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SCOT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SCOT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SDC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SDC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SIA-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SIA.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SJCX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SJCX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SLG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SLG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SLS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SLS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SNRG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SNRG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/START-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/START.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STEEM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STEEM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STRAT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/STRAT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SWIFT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SWIFT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SYNC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SYNC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SYS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/SYS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/TX-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/TX.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/UNITY-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/UNITY.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/USDT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/USDT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VIOR-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VIOR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VNL-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VNL.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VPN-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VPN.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VRC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VRC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VTC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/VTC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XAI-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XAI.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XBS-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XBS.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XCP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XCP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XEM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XEM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XMR.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XPM-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XPM.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XRP-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XRP.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XVG-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/XVG.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/YBC-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/YBC.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ZEIT-alt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/SVG/ZEIT.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/cryptocoins-colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/cryptocoins.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/crypto-coins/fonts/cryptocoins.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ionicons/fonts/ionicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/ionicons/ionicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Charts/CoinOverviewChart/CoinOverviewChart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Charts/CoinOverviewChart/CoinOverviewChart.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/CoinProfile/CoinProfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/CoinProfile/coinProfile.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Logo/Logo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Logo/logo.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/Navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Navigation/navigation.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/screens/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/state/coin-profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/state/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/state/navigation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -603,11 +143,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -641,7 +191,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/jumpsuit.config.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/input/input.js" />
         <option value="$PROJECT_DIR$/src/components/logo/logo.styl" />
         <option value="$PROJECT_DIR$/src/components/sidebar/sidebar.js" />
@@ -664,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/screens/index.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -882,12 +432,12 @@
       <updated>1491769868726</updated>
       <workItem from="1491769869874" duration="12696000" />
       <workItem from="1491784564044" duration="9795000" />
-      <workItem from="1491794558920" duration="167000" />
+      <workItem from="1491794558920" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22658000" />
+    <option name="totallyTimeSpent" value="22798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
@@ -1095,14 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1273,6 +815,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
