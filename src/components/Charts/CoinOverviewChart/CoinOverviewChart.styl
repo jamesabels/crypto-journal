@@ -1,0 +1,38 @@
+.overview-wrap
+  grid();
+  padding: 0;
+
+.overview-section
+  cell(12, 12);
+  margin: 0 auto;
+
+#overview-chart
+  cell(3, 12);
+  margin: 0 auto;
+  width: 20px;
+
+.chart-header
+  width: 100%;
+  padding: 30px;
+  .chart-title
+    font-size 2em;
+    letter-spacing: 0.03em;
+    font-family "Open Sans";
+    color: #838383;
+    text-align center;
+
+.button-bar
+  grid();
+  width: 100%;
+  .button
+    cell(1, 5)
+    color: #838383;
+    border: solid 1px #c4c4c4;
+    padding: 10px;
+    text-align: center;
+    font-family "Open Sans";
+    letter-spacing 0.03em;
+  .button:hover
+    color: #333;
+    border: solid 1px #838383;
+    background-color: #efefef;

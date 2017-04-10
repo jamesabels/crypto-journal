@@ -1,0 +1,60 @@
+// -----------------------------------------------------------------------------
+// styles
+// -----------------------------------------------------------------------------
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600')
+@import './assets/img/crypto-coins/cryptocoins.css';
+@import './assets/img/crypto-coins/cryptocoins-colors.css';
+@import './assets/img/ionicons/ionicons.css';
+@import 'nib'
+@import 's-grid-settings'
+@import 's-grid-functions'
+@import 's-grid-classes'
+
+// -----------------------------------------------------------------------------
+// partials
+// -----------------------------------------------------------------------------
+@import 'components/Logo/logo.styl'
+@import 'components/Navigation/navigation.styl'
+@import 'components/CoinProfile/coinProfile.styl'
+@import 'components/Charts/CoinOverviewChart/CoinOverviewChart.styl'
+
+global-reset()
+
+// -----------------------------------------------------------------------------
+// variables
+// -----------------------------------------------------------------------------
+
+$fnt-open-sans = 'Open Sans', sans-serif
+$clr-white = #FFFFFF
+$clr-off-white = #F5F5F5
+$clr-gray = #bfbfbf
+$clr-jumpsuit1 = #1F284B
+$clr-jumpsuit2 = #33478C
+$clr-jumpsuit3 = #3A54AD
+
+// -----------------------------------------------------------------------------
+// styles
+// -----------------------------------------------------------------------------
+
+body, html {
+  background-color: black;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.container
+  width: 100%;
+  .sidebar
+    background: linear-gradient(#FC3F48, #FABD7D);
+    float: left;
+    width: 20%;
+    height: 100vh;
+  .content
+    background: linear-gradient(white, #D5DED4);
+    float: right;
+    width: 80%;
+    height: 100vh;
