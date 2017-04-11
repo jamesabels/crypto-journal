@@ -1,13 +1,29 @@
-import { Component } from 'jumpsuit'
+import { Component, Actions } from 'jumpsuit'
 import { AreaChart, Area, Line, CartesianGrid, XAxis, YAxis, Legend, Bar, Tooltip, BarChart } from 'recharts'
-
-const data = [
-    {name: 'a', value: 1},
-    {name: 'b', value: 20},
-    {name: 'c', value: 10},
-];
+import { formatTime, formatUSD } from '../../../libs/dataFormatter';
+import moment from 'moment'
 
 const CoinOverviewChart = Component({
+    getYear() {
+        Actions.setTimeSpan('Year');
+        Actions.getCoinData({symbol: this.props.symbol, time: Date.now(), limit: 365, interval: 29});
+    },
+    get90Days() {
+        Actions.setTimeSpan('90 Days');
+        Actions.getCoinData({symbol: this.props.symbol, time: Date.now(), limit: 90, interval: 29});
+    },
+    getMonth() {
+        Actions.setTimeSpan('Month');
+        Actions.getCoinData({symbol: this.props.symbol, time: Date.now(), limit: 30, interval: 29});
+    },
+    getWeek() {
+        Actions.setTimeSpan('Week');
+        Actions.getCoinData({symbol: this.props.symbol, time: Date.now(), limit: 7, interval: 1});
+    },
+    getDay() {
+        Actions.setTimeSpan('Day');
+        Actions.getCoinData({symbol: this.props.symbol, time: Date.now(), limit: 1, interval: 1});
+    },
     render() {
         return (
             <div className="overview-wrap">
@@ -15,28 +31,29 @@ const CoinOverviewChart = Component({
                     <h1 className="chart-title">{this.props.coinName} - {this.props.timeSpan}</h1>
                 </div>
                 <div className="overview-section">
-                    <AreaChart width={1100} height={300} data={data}>
-                        <XAxis dataKey="name"/>
-                        <YAxis/>
+                    <AreaChart width={1050} height={300} data={this.props.data} margin={{ top: 5, right: 10, bottom: 5, left: 10 }}>
+                        <XAxis
+                            dataKey="time"
+                            interval={this.props.interval}
+                            tickFormatter={(tick) => formatTime(tick, 'MM/DD/YY')}
+                        />
+                        <YAxis
+                            tickFormatter={(tick) => formatUSD(tick)}
+                        />
                         <CartesianGrid strokeDasharray="3 3"/>
-                        <Tooltip/>
-                        <Area type='monotone' dataKey='value' stroke='#8884d8' fill='#8884d8' />
+                        <Tooltip formatter={(tick) => formatUSD(tick)} labelFormatter={(tick) => formatTime(tick, 'MM/DD/YYYY')} />
+                        <Area type='monotone' dataKey='high' stroke='#8884d8' fill='#8884d8' />
                     </AreaChart>
                 </div>
                 <div className="button-bar">
-                    <div className="button time-button">Day</div>
-                    <div className="button time-button">Week</div>
-                    <div className="button time-button">30 Days</div>
-                    <div className="button time-button">90 Days</div>
-                    <div className="button time-button">Year</div>
+                    <button className="button time-button" onClick={() => this.getDay()}>Day</button>
+                    <button className="button time-button" onClick={() => this.getWeek()}>Week</button>
+                    <button className="button time-button" onClick={() => this.getMonth()}>30 Days</button>
+                    <button className="button time-button" onClick={() => this.get90Days()}>90 Days</button>
+                    <button className="button time-button" onClick={() => this.getYear()}>Year</button>
                 </div>
             </div>
         )
-    }
-}, (state) => {
-    return {
-        currentCoin: state.navigationState.currentCoin,
-        navList: state.navigationState.navList
     }
 });
 

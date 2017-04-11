@@ -3,20 +3,27 @@
     margin-top: 50px;
     .nav-item
       grid(cells-align: 'center');
-      background-color: rgba(255, 255, 255, 0.2)
+      background-color: rgba(255, 255, 255, 0.1)
       padding: 0;
       margin-bottom: 10px;
       .tab-icon
         cell(2, 12)
         color: whitesmoke;
-        font-size 2em;
+        font-size 1.5em;
+        float: left;
       .tab-name
-        cell(10, 12)
+        cell(8.5, 12)
+        float: right;
         color: whitesmoke;
-        font-size: 1.3em;
+        font-size: 1.5em;
         font-family "Open Sans";
         font-weight 500;
         text-transform uppercase;
         letter-spacing: 0.08em;
+      a
+        color: #838383
+        text-decoration: none;
+      a:visited
+        color: #838383
     .nav-item:hover
-      background-color: rgba(0, 0, 0, 0.1);
+      background-color: rgba(0, 0, 0, 0.05);

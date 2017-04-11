@@ -1,4 +1,4 @@
-import { Component } from 'jumpsuit'
+import { Component, Link } from 'jumpsuit'
 
 const Navigation = Component({
     render() {
@@ -8,8 +8,10 @@ const Navigation = Component({
                     {this.props.navList.map(function (item, index) {
                         return (
                             <li className="nav-item" key={`nav-item-${index}`}>
-                                <i className={`tab-icon ${item.iconClass} `} />
-                                <p className={'tab-name'}>{item.label}</p>
+                                <Link to={`/`}>
+                                    <i className={`tab-icon ${item.iconClass} `} />
+                                    <p className={'tab-name'}>{item.label}</p>
+                                </Link>
                             </li>
                         )
                     })}
