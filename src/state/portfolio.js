@@ -7,7 +7,9 @@ const portfolioState = State({
         coinList: [
             { symbol: 'BTC' },
             { symbol: 'ETH' },
-            { symbol: 'LTC' }
+            { symbol: 'ETC' },
+            { symbol: 'LTC' },
+            { symbol: 'DCR' }
         ]
     }
 });
