@@ -1,6 +1,11 @@
 .nav-wrap
   .nav-list
     margin-top: 50px;
+    a
+      color: #838383
+      text-decoration: none;
+    a:visited
+      color: #838383
     .nav-item
       grid(cells-align: 'center');
       background-color: rgba(255, 255, 255, 0.1)
@@ -20,10 +25,5 @@
         font-weight 500;
         text-transform uppercase;
         letter-spacing: 0.08em;
-      a
-        color: #838383
-        text-decoration: none;
-      a:visited
-        color: #838383
     .nav-item:hover
       background-color: rgba(0, 0, 0, 0.05);
