@@ -7,12 +7,12 @@ const Navigation = Component({
                 <ul className="nav-list">
                     {this.props.navList.map(function (item, index) {
                         return (
-                            <li className="nav-item" key={`nav-item-${index}`}>
-                                <Link to={`/`}>
-                                    <i className={`tab-icon ${item.iconClass} `} />
-                                    <p className={'tab-name'}>{item.label}</p>
-                                </Link>
-                            </li>
+                            <Link to={`${item.path}`}>
+                                <li className="nav-item" key={`nav-item-${index}`}>
+                                        <i className={`tab-icon ${item.iconClass}`} />
+                                        <p className={'tab-name'}>{item.label}</p>
+                                </li>
+                            </Link>
                         )
                     })}
                 </ul>

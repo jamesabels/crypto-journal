@@ -26,8 +26,8 @@ const Portfolio = Component({
                         <ul className="coin-list">
                             {this.props.coinList.map(function(coin, index) {
                                 return (
-                                    <li className="coin-list-item">
-                                        <Link to={`/${coin.symbol}`}>
+                                    <li key={`coin-${index}`} className="coin-list-item">
+                                        <Link to={`/profile/${coin.symbol}`}>
                                             <i className={`coin-list-icon cc ${coin.symbol}`} />
                                             <p className="coin-list-name">{coin.symbol}</p>
                                         </Link>
