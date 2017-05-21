@@ -19,3 +19,21 @@ export function formatOverviewChartData(responseData) {
 
     return newdata;
 }
+
+export function formatOveriewCandelstickData(responseData) {
+  let oldData = responseData;
+  let newdata = [];
+
+  oldData.forEach(function (obj, index) {
+      let averageValue = averageValues(obj.high, obj.low);
+      newdata.push({
+          date: obj.time,
+          obj.open,
+          obj.high,
+          obj.low,
+          obj.close
+      })
+  });
+
+  return newdata;
+}

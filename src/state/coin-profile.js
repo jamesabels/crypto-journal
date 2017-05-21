@@ -53,9 +53,7 @@ const coinProfileState = State({
 });
 
 Effect('getCoinPrice', (crypto) => {
-
     Actions.setCoinSymbol(crypto);
-
     Actions.priceIsLoading(true);
 
     let url = `${priceURL}?fsym=${crypto}&tsyms=${'BTC,USD,EUR'}`;
@@ -75,7 +73,6 @@ Effect('getCoinPrice', (crypto) => {
 
 Effect('getCoinInfo', (crypto) => {
     Actions.setCoinSymbol(crypto);
-
     Actions.infoIsLoading(true);
 
     let url = `${snapURL}/?fsym=${crypto}&tsym=${'BTC'}`;
@@ -95,7 +92,6 @@ Effect('getCoinInfo', (crypto) => {
 
 Effect('getCoinData', (params) => {
     Actions.setCoinSymbol(params.symbol);
-
     Actions.dataIsLoading(true);
 
     let url = `${dataURL}?fsym=${params.symbol}&tsym=${'USD'}&limit=${params.limit}&aggregate=1&toTs=${params.time}&extraParams=crypto-journal`;
